@@ -14,7 +14,7 @@ Clean and simple UI
 ## Installation  
 1. **Clone the repository**  
    ```sh
- git clone https://github.com/CensoredMatrix/RockPaperscissorsGame.git
+   git clone https://github.com/CensoredMatrix/RockPaperscissorsGame.git
  cd RockPaperscissorsGame
 Install dependencies
 Ensure you have Python 3 installed
